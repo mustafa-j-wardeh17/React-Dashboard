@@ -1,4 +1,7 @@
-<h1 style={{text-align='center'}}>Simple React Dashboard</h1>
-<br/>
-<br/>
+<div>
+  <h1>Simple React Dashboard Interface</h1>
+  <img src="" alt='dashboard image' />
+</div>
+
+
 
